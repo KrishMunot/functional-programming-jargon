@@ -1,6 +1,6 @@
 # Contributing
 
-This project is a work in progress. Contributions are very welcome.
+This project is a work in progress. Contributions are absolutely welcome.
 
 ## Hard rules
 * Run `npm test` to lint the code examples. Your changes must pass.
